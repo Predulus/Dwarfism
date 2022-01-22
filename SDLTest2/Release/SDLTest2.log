@@ -1,0 +1,48 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SDLTest2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  noiseutils.cpp
+D:\libnoise\noiseutils.cpp(61,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\libnoise\noiseutils.cpp(62,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\libnoise\noiseutils.cpp(867,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Grid.cpp
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Grid.cpp(9,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Grid.cpp(32,48): warning C4316: 'Node': object allocated on the heap may not be aligned 16
+  Node.cpp
+  PerlinNoise.cpp
+  Main.cpp
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(323,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(370,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(438,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(439,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(440,18): warning C4244: 'argument': conversion from 'int' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(440,15): warning C4244: 'argument': conversion from 'int' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(447,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(448,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(496,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(497,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(516,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(517,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(716,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(721,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(825,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(830,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(831,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(834,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(835,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(841,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(846,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(847,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(851,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\user\source\repos\SDLTest2\SDLTest2\Main.cpp(852,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDLTest2.vcxproj -> D:\Users\user\source\repos\SDLTest2\Release\Dwarfism.exe
